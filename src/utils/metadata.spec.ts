@@ -24,4 +24,4 @@ test('should work with a list of mints', async () => {
     const connection = new Connection(clusterApiUrl("mainnet-beta"), "confirmed");
     let metadata = await findMetadata(connection, [JUP, BERN, GHOST])
     expect(metadata).toMatchSnapshot()
-})
+})HuQTkhWb8WN1cWFpqjfTBaxJyRC5jzE9qUHXuKvsFGYy.json

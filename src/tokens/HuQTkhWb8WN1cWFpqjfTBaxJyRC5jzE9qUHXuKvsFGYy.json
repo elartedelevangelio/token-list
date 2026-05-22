@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "HuQTkhWb8WN1cWFpqjfTBaxJyRC5jzE9qUHXuKvsFGYy",
+  "symbol": "Gcoin",
+  "name": "GMcoin",
+  "decimals": 6,
+  "logoURI": "https://link-a-tu-logo.png",
+  "tags": ["token"]
+}

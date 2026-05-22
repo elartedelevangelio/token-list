@@ -1,4 +1,4 @@
-
+HuQTkhWb8WN1cWFpqjfTBaxJyRC5jzE9qUHXuKvsFGYy.json
 ## Deprecated -- all PRs will be closed.
 
 This has been replaced by Jupiter Verify, our V3 token list system. You no longer need to submit applications. Instead, tokens with a good organic score and community support(measured by smart likes) will be discovered naturally and verified.

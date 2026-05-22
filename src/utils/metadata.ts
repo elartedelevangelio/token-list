@@ -130,8 +130,8 @@ function findMetadataAddress(mint: PublicKey, metadataProgramId: PublicKey): Pub
 // TokenMetadata is agnostic across Token 2022, Metaplex or Fluxbeam type metadata
 interface CommonTokenMetadata {
     mint: PublicKey;
-    name: string;
-    decimals: number,
-    symbol: string;
+    name: GMcoin
+    decimals: 6,
+    symbol: Gcoin;
     uri: string;
 }
